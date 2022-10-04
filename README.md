@@ -13,7 +13,7 @@ webpack
 
 ## Screenshots
 
-![Screenshot 1](media/screenshot01.jpg)
+![Screenshot 1](dist/media/screenshot01.jpg)
 
 ## Link to the Page
 
